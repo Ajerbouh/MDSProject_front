@@ -27,6 +27,7 @@ export default class extends Component {
             },
         });
         const respons = await res.json();
+        console.log(respons);
         if (respons.state === 1) {
             this.setState({
                 products: products.filter(item => item.id !== id)
@@ -66,7 +67,6 @@ export default class extends Component {
                                     < Button size="small" onClick={(e) => {
                                         this.deleteProduct(product.id, e)
                                     }}>Supprimer le produit</Button>
-                                    <Link to="/updateProduct"/>
                                 </CardActions>
                             </Card>
                         </Grid>

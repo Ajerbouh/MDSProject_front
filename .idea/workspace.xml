@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4ceeff26-3b41-43ca-8eb3-a9db763c7a5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AddProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/AddProduct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/updateProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +28,14 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>material</find>
-      <find>value</find>
-      <find>React</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>name</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1SHD0kQJFRYd1iHDkkTi2SOtZlL" />
   <component name="PropertiesComponent">
@@ -43,6 +44,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MDSProject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
@@ -72,7 +74,7 @@
       <workItem from="1571176474180" duration="18550000" />
       <workItem from="1571211410659" duration="42000" />
       <workItem from="1571212166571" duration="11000" />
-      <workItem from="1571212257970" duration="1417000" />
+      <workItem from="1571212257970" duration="13374000" />
     </task>
     <servers />
   </component>
